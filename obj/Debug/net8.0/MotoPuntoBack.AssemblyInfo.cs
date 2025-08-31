@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotoPuntoBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+345e31b4bcd8eb3a0bddd7907c11ddfdc4f52f7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+012d328c9de65ef6a3f526d6dbdd1986c49aa8c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotoPuntoBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotoPuntoBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

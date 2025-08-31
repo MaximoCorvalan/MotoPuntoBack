@@ -3,7 +3,10 @@ using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.DependencyInjection;
 using MotoPuntoBack.Mappings;
 using MotoPuntoBack.Models;
-
+using Microsoft.AspNetCore.Authentication.BearerToken;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 var builder = WebApplication.CreateBuilder(args);{
 
     builder.Services.AddAutoMapper(cfg => { }, typeof(MappingProfile));
@@ -11,6 +14,17 @@ var builder = WebApplication.CreateBuilder(args);{
     // Add services to the container.
 
     builder.Services.AddControllers();
+    builder.Services.AddAuthorization();
+
+    builder.Services.AddAuthentication("Bearer").AddBearerToken(opt =>
+    {
+        var signingKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]!));
+        var SignalCredentials = new SigningCredentials(signingKey,SecurityAlgorithms.HmacSha256Signature);
+
+        
+    });
+
+
     // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
     builder.Services.AddEndpointsApiExplorer();
     builder.Services.AddSwaggerGen();
@@ -26,8 +40,10 @@ var builder = WebApplication.CreateBuilder(args);{
     // Configure the HTTP request pipeline.
     if (app.Environment.IsDevelopment())
     {
-        app.UseSwagger();
-        app.UseSwaggerUI();
+        app.UseSwagger(options => options.OpenApiVersion =
+Microsoft.OpenApi.OpenApiSpecVersion.OpenApi2_0);
+        builder.Services.AddEndpointsApiExplorer();
+
     }
 
     app.UseCors(builder =>
@@ -40,7 +56,7 @@ var builder = WebApplication.CreateBuilder(args);{
 
 
     app.UseHttpsRedirection();
-
+    app.UseAuthentication();
     app.UseAuthorization();
 
     app.MapControllers();

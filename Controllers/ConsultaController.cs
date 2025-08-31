@@ -88,7 +88,7 @@ namespace MotoPuntoBack.Controllers
             }
             catch (Exception ex) 
             {
-                return BadRequest("ERROR AL INTENTAR CREAR LA CONSULTA");
+                return BadRequest("ERROR AL INTENTAR CREAR LA CONSULTA"+ex.Message);
             }
         }
     }

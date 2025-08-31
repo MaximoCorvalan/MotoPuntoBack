@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -21,6 +22,7 @@ namespace MotoPuntoBack.Controllers
 
 
         [HttpGet]
+       [Authorize]
         public ActionResult<IEnumerable<Moto>> Get()
         {
             try
