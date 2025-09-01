@@ -7,24 +7,28 @@
       "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\models\\motopuntocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:models\\motopuntocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\motopuntoback.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:motopuntoback.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\controllers\\motocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:controllers\\motocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\dtos\\consultadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:dtos\\consultadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +43,27 @@
       "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:helpers\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\dtos\\consultadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:dtos\\consultadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\motopuntoback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:motopuntoback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\controllers\\motocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:controllers\\motocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +72,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\models\\motopuntocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:models\\motopuntocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,10 +96,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\dtos\\motodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:dtos\\motodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|c:\\users\\maxi_\\desktop\\motopuntoback\\motopuntoback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AA1D26C3-4846-457B-AD9B-C2A117698651}|MotoPuntoBack.csproj|solutionrelative:motopuntoback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +105,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,80 +113,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MotoPuntoBack.http",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\MotoPuntoBack.http",
-              "RelativeDocumentMoniker": "MotoPuntoBack.http",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\MotoPuntoBack.http",
-              "RelativeToolTip": "MotoPuntoBack.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-30T19:15:24.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MotoController.cs",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Controllers\\MotoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MotoController.cs",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Controllers\\MotoController.cs",
-              "RelativeToolTip": "Controllers\\MotoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ConsultaController.cs",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Controllers\\ConsultaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConsultaController.cs",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Controllers\\ConsultaController.cs",
+              "RelativeToolTip": "Controllers\\ConsultaController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:42:20.22Z",
+              "WhenOpened": "2025-08-31T21:41:51.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "MarcaController.cs",
               "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Controllers\\MarcaController.cs",
               "RelativeDocumentMoniker": "Controllers\\MarcaController.cs",
               "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Controllers\\MarcaController.cs",
               "RelativeToolTip": "Controllers\\MarcaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T18:42:19.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:30:50.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Helpers\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "Helpers\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Helpers\\LoginRequest.cs",
-              "RelativeToolTip": "Helpers\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:30:43.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-30T18:11:15.558Z",
               "EditorCaption": ""
             },
             {
@@ -190,14 +145,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwCEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T18:09:53.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Jwt.cs",
               "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Helpers\\Jwt.cs",
               "RelativeDocumentMoniker": "Helpers\\Jwt.cs",
@@ -210,7 +165,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:30:50.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\ConsultaDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ConsultaDTO.cs",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\ConsultaDTO.cs",
+              "RelativeToolTip": "DTOs\\ConsultaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T18:40:51.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MotoPuntoBack.http",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\MotoPuntoBack.http",
+              "RelativeDocumentMoniker": "MotoPuntoBack.http",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\MotoPuntoBack.http",
+              "RelativeToolTip": "MotoPuntoBack.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-30T19:15:24.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T18:11:15.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MotopuntoContext.cs",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\MotopuntoContext.cs",
+              "RelativeDocumentMoniker": "Models\\MotopuntoContext.cs",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\MotopuntoContext.cs",
+              "RelativeToolTip": "Models\\MotopuntoContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:03:46.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Helpers\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Helpers\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Helpers\\LoginRequest.cs",
+              "RelativeToolTip": "Helpers\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T21:42:12.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAjwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-31T21:36:37.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Imagen.cs",
               "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Imagen.cs",
               "RelativeDocumentMoniker": "Models\\Imagen.cs",
@@ -218,47 +264,12 @@
               "RelativeToolTip": "Models\\Imagen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T00:39:20.359Z"
+              "WhenOpened": "2025-08-22T00:39:20.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-28T00:53:21.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Usuario.cs",
-              "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T19:34:13.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Consultum.cs",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Consultum.cs",
-              "RelativeDocumentMoniker": "Models\\Consultum.cs",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Consultum.cs",
-              "RelativeToolTip": "Models\\Consultum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T23:29:56.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Request.cs",
               "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Helpers\\Request.cs",
               "RelativeDocumentMoniker": "Helpers\\Request.cs",
@@ -271,103 +282,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAMBdwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T00:53:21.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:34:13.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Mappings\\MappingProfile.cs",
               "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Mappings\\MappingProfile.cs",
               "RelativeToolTip": "Mappings\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T00:15:12.058Z"
+              "WhenOpened": "2025-08-07T00:15:12.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MotopuntoContext.cs",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\MotopuntoContext.cs",
-              "RelativeDocumentMoniker": "Models\\MotopuntoContext.cs",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\MotopuntoContext.cs",
-              "RelativeToolTip": "Models\\MotopuntoContext.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwBcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T15:03:46.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Marca.cs",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Marca.cs",
-              "RelativeDocumentMoniker": "Models\\Marca.cs",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Marca.cs",
-              "RelativeToolTip": "Models\\Marca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T23:23:49.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Rol.cs",
-              "RelativeDocumentMoniker": "Models\\Rol.cs",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Rol.cs",
-              "RelativeToolTip": "Models\\Rol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T23:38:21.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ConsultaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\ConsultaDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\ConsultaDTO.cs",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\ConsultaDTO.cs",
-              "RelativeToolTip": "DTOs\\ConsultaDTO.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwCIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T18:40:51.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ImagenDTO.cs",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\ImagenDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\ImagenDTO.cs",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\ImagenDTO.cs",
-              "RelativeToolTip": "DTOs\\ImagenDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T23:24:45.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MarcaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\MarcaDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\MarcaDTO.cs",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\MarcaDTO.cs",
-              "RelativeToolTip": "DTOs\\MarcaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T13:09:09.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MotoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\MotoDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\MotoDTO.cs",
-              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\MotoDTO.cs",
-              "RelativeToolTip": "DTOs\\MotoDTO.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAywAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T18:00:25.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 12,
               "Title": "MotoPuntoBack.csproj",
               "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\MotoPuntoBack.csproj",
               "RelativeDocumentMoniker": "MotoPuntoBack.csproj",
@@ -375,7 +329,99 @@
               "RelativeToolTip": "MotoPuntoBack.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-09T14:52:33.978Z"
+              "WhenOpened": "2025-08-09T14:52:33.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MotoController.cs",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Controllers\\MotoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MotoController.cs",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Controllers\\MotoController.cs",
+              "RelativeToolTip": "Controllers\\MotoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:42:20.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Consultum.cs",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Consultum.cs",
+              "RelativeDocumentMoniker": "Models\\Consultum.cs",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Consultum.cs",
+              "RelativeToolTip": "Models\\Consultum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T23:29:56.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Marca.cs",
+              "RelativeDocumentMoniker": "Models\\Marca.cs",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Marca.cs",
+              "RelativeToolTip": "Models\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T23:23:49.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\Models\\Rol.cs",
+              "RelativeToolTip": "Models\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T23:38:21.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ImagenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\ImagenDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ImagenDTO.cs",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\ImagenDTO.cs",
+              "RelativeToolTip": "DTOs\\ImagenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T23:24:45.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MarcaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\MarcaDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\MarcaDTO.cs",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\MarcaDTO.cs",
+              "RelativeToolTip": "DTOs\\MarcaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:09:09.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MotoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\MotoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\MotoDTO.cs",
+              "ToolTip": "C:\\Users\\maxi_\\Desktop\\MotoPuntoBack\\DTOs\\MotoDTO.cs",
+              "RelativeToolTip": "DTOs\\MotoDTO.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA7wAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T18:00:25.507Z",
+              "EditorCaption": ""
             }
           ]
         }
